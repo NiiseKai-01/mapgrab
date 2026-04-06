@@ -1,0 +1,2861 @@
+{
+  "search_metadata": {
+    "id": "69d249b1822c5fe48cd68fc4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xxtZdQthtBZOM-tPif5PHQ/69d249b1822c5fe48cd68fc4.json",
+    "created_at": "2026-04-05 11:38:25 UTC",
+    "processed_at": "2026-04-05 11:38:25 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Cafes+in+Tokyo/@40.7455096,-74.0083012,14z/?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/xxtZdQthtBZOM-tPif5PHQ/69d249b1822c5fe48cd68fc4.html",
+    "prettify_html_file": "https://serpapi.com/searches/xxtZdQthtBZOM-tPif5PHQ/69d249b1822c5fe48cd68fc4.prettify",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Cafes in Tokyo",
+    "ll": "@40.7455096,-74.0083012,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Cafes in Tokyo"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Lê Phin",
+      "place_id": "ChIJU_tU6kpZwokR-pX4kn5VSBA",
+      "data_id": "0x89c2594aea54fb53:0x1048557e92f895fa",
+      "data_cid": "1173281705050019322",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2594aea54fb53%3A0x1048557e92f895fa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2594aea54fb53%3A0x1048557e92f895fa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7285073,
+        "longitude": -73.9834905
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU_tU6kpZwokR-pX4kn5VSBA",
+      "provider_id": "/g/11rpqzb9f9",
+      "rating": 4.7,
+      "reviews": 437,
+      "price": "$1–10",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "259 E 10th St, New York, NY 10009",
+      "open_state": "Closed · Opens 9 AM",
+      "hours": "Closed · Opens 9 AM",
+      "operating_hours": {
+        "sunday": "9 AM–5:30 PM",
+        "monday": "8 AM–5:30 PM",
+        "tuesday": "8 AM–5:30 PM",
+        "wednesday": "8 AM–5:30 PM",
+        "thursday": "8 AM–5:30 PM",
+        "friday": "8 AM–5:30 PM",
+        "saturday": "9 AM–5:30 PM"
+      },
+      "phone": "(929) 422-3972",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Healthy options",
+            "Organic dishes",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"such a cute little spot with some unique latte flavors and great service!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepWQIcHoza5ku7onz2z5y9JdHa8qjjuJkXlUHHa7YczEHFjAtGkN_vvYBbpNgZJp3VFXh8qJ7DD1v04DAfv5gnReiGHYD_oKp0ptWt5YA3XgVLrjlaH9wzGW50Y48OaRzYYLHPnWJ8nSVZH=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VnXxPHicBcFRToMwGADgE3UwWAOY-FCD47cuU2cEupel62oRsO3WArF39ADexu_7--28t-4uisYuXSlj1CgnJ2_CaC-1XwnzHSnrkHDIRQRqskjbvD0JMIHjYcqMDknAPwW9AM-vfT_RoR0_AHjGRHiEbU98NexP88weznavjtSm9bbt8ivNynI9x5uSfM5Y6YP8qoCVJ_NsY-sbjxlJW1Xvbv3IoVhC1eCYbfIXfgiM7eBVNzTX7_UR7pd1kqCuSNCAtPkHfmVHtA"
+    },
+    {
+      "position": 2,
+      "title": "La Cabra Bakery",
+      "place_id": "ChIJT994RulZwokRdgqQX0zc3QY",
+      "data_id": "0x89c259e94678df4f:0x6dddc4c5f900a76",
+      "data_cid": "494793754659523190",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259e94678df4f%3A0x6dddc4c5f900a76&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259e94678df4f%3A0x6dddc4c5f900a76&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.729445899999995,
+        "longitude": -73.9868353
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT994RulZwokRdgqQX0zc3QY",
+      "provider_id": "/g/11p0g5znn6",
+      "rating": 4.7,
+      "reviews": 1514,
+      "price": "$10–20",
+      "extracted_price": 10,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Bakery"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "bakery"
+      ],
+      "address": "152 2nd Ave, New York, NY 10003",
+      "open_state": "Opens soon · 8 AM",
+      "hours": "Opens soon · 8 AM",
+      "operating_hours": {
+        "sunday": "8 AM–6 PM",
+        "monday": "7 AM–6 PM",
+        "tuesday": "7 AM–6 PM",
+        "wednesday": "7 AM–6 PM",
+        "thursday": "7 AM–6 PM",
+        "friday": "7 AM–6 PM",
+        "saturday": "8 AM–6 PM"
+      },
+      "website": "https://us.lacabra.com/pages/east-village",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Organic dishes",
+            "Prepared foods",
+            "Quick bite",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"ethereal vibe and very nicely done up space\n\ncoffee and bakes are bomb!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqGTI-P7QG6cm4QmSw2y4NF3hmKn-Tw0KGXVU5laCQFuyHzXp0kLPSQfXNlVxNNe24CEWMuWITelIqbJ2Dm__LbOjO_L2n-MKq5Yb-zQeUctVlYAw5vixyrHDI672zZXKPL4eiTiRNmJr_7=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rVPTSnicBcFdboIwAADgE1VcBYlL9kB0AoKVKiL6QqTpAO0P0GKFO-4Au82-7--31rpVn5bF6sWskrJidFC0J1JoKvSMSG5VrQJEAWV5QeYZ2vlpCBIX-0vCbcxPBo422i5qHgmQmnnk59nZYfc13g5jMOXt_BknJ_yTI5a9EaLQXn9f9sMlTCkLu3IHN7wo4vLwOBQxFGAfdc61BBOmZ6IzdvWM82reYx9swqULp1seJbFNm7Q5Ir7rC_fLfEAI6hUETyDkP740Rrk"
+    },
+    {
+      "position": 3,
+      "title": "Dear Coffee",
+      "place_id": "ChIJc5JbTQBZwokRoL3-gj8gCS8",
+      "data_id": "0x89c259004d5b9273:0x2f09203f82febda0",
+      "data_cid": "3389275651725770144",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259004d5b9273%3A0x2f09203f82febda0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259004d5b9273%3A0x2f09203f82febda0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7781549,
+        "longitude": -73.9567473
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc5JbTQBZwokRoL3-gj8gCS8",
+      "provider_id": "/g/11vwz5mzll",
+      "rating": 4.7,
+      "reviews": 298,
+      "price": "$1–10",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "1246 Lexington Ave, New York, NY 10028",
+      "open_state": "Opens soon · 8 AM",
+      "hours": "Opens soon · 8 AM",
+      "operating_hours": {
+        "sunday": "8 AM–6 PM",
+        "monday": "7 AM–6 PM",
+        "tuesday": "7 AM–6 PM",
+        "wednesday": "7 AM–6 PM",
+        "thursday": "7 AM–6 PM",
+        "friday": "7 AM–6 PM",
+        "saturday": "8 AM–6 PM"
+      },
+      "website": "https://www.dearcoffeenyc.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"The staff was so, so friendly and the coffee tasted amazing!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer0UpTnYxgGGrETsnPUCTJOaZOic1nf9KmryYQD9XfkzWHOXzGq77-p1QpmF_yG5FRakayVGfYqxgfrvSd4knOsN1YYBS4217d6HCii9tBJm8l6hhCV3_xCTvOym5MwSSVgAHrFoqSaUNzV=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RBtHoHicBcFZUoMwAADQE6UYuiDO-EGphKljYw1g058OQyFhIAtJLMsdPYC38b2_X-6cti-e1_P1iinF-vrH1qZS0tXSrSolPKYtqCywXpQW0Vibp1xnkk4MIfOWWfmZx9kRl1fcVlA24bswMz0fwkvTLd8pvixoCAKg4VmL5DajbfJVduVcoIYOE2vMg9w3ncT2BCndk40Pg_sujds2dPujeO53nMfF-jbF2QPPYvsxElKwKDWJGkiZn5bidYS-D3jogw5I9Q-ED0hM"
+    },
+    {
+      "position": 4,
+      "title": "Coffee Project New York | East Village",
+      "place_id": "ChIJ_dckWptZwokR_LkU9WxPNZ4",
+      "data_id": "0x89c2599b5a24d7fd:0x9e354f6cf514b9fc",
+      "data_cid": "11400105361145117180",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2599b5a24d7fd%3A0x9e354f6cf514b9fc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2599b5a24d7fd%3A0x9e354f6cf514b9fc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7270884,
+        "longitude": -73.98938199999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_dckWptZwokR_LkU9WxPNZ4",
+      "provider_id": "/g/11c3svpqld",
+      "rating": 4.6,
+      "reviews": 813,
+      "price": "$$",
+      "extracted_price": null,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "cafe"
+      ],
+      "address": "239 E 5th St, New York, NY 10003",
+      "open_state": "Opens soon · 8 AM",
+      "hours": "Opens soon · 8 AM",
+      "operating_hours": {
+        "sunday": "8 AM–5:30 PM",
+        "monday": "7:30 AM–5 PM",
+        "tuesday": "7:30 AM–5 PM",
+        "wednesday": "7:30 AM–5 PM",
+        "thursday": "7:30 AM–5 PM",
+        "friday": "7:30 AM–5 PM",
+        "saturday": "8 AM–5:30 PM"
+      },
+      "phone": "(212) 228-7888",
+      "website": "https://coffeeprojectny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ev",
+      "description": "Hip nook for innovative coffee drinks. Cozy, brick-lined joint for inventive drinks such as deconstructed lattes and nitro cold-brew coffee.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Organic dishes",
+            "Prepared foods",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Catering",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjM3N2cHFsZBgCOgMI8A0%3D&g2lbs=AIBNGdUbQZxJL_VCt6p4hC7R9ZO9tO9FjefoA8N9tTicQeZvft9zSf3MEhN92UYhP4LLqLVDyz_9fsX6vBsNfJK_YBrQKo40lA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The deconstructed latte is a unique experience, highly recommended!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqHOb3PEwhO4txvfkWi0OkdVZneJBbPFd8ysnlKyxVvTXD7c-2Wm1_axAeUHI7E_GvlxuWoFJcLfCN9Liq5dyndeO2MQjaSzWXKlr_6r8PGoMeTq2SuUvCKGpqjprI8vCizC1lh=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9_TLXnicBcHtFoEwAADQJ5o0X-UcPxKKpByU40-HNS3NVm2t8n4ewtu49_clUpZirmmUjAYZ5xnFjcA14kxiJgeIv7WsFAAJIDTLjawWV27wGIXrlgRj2alnEefDoEijG8O75SPcpEYvGPX6LlLn62qGAIzfenLvLHxxt7N14ijaNTHf7ND-aR_MfV5N0p6lOID-8XU_feKrR-tkWhuhw318ruCpuSjbc8rqVdZbQ9n5x9YpWbQ6hICYEBSA8T9x_EZp"
+    },
+    {
+      "position": 5,
+      "title": "Cafe Hatou",
+      "place_id": "ChIJW7wU9epZwokRADGJmBNcoas",
+      "data_id": "0x89c259eaf514bc5b:0xaba15c1398893100",
+      "data_cid": "12367267290969354496",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259eaf514bc5b%3A0xaba15c1398893100&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259eaf514bc5b%3A0xaba15c1398893100&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7571905,
+        "longitude": -73.9691844
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW7wU9epZwokRADGJmBNcoas",
+      "provider_id": "/g/11vqk30f41",
+      "rating": 4.6,
+      "reviews": 59,
+      "price": "$1–10",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe",
+        "Sandwich shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "cafe",
+        "sandwich_shop"
+      ],
+      "address": "Lower Level, 875 3rd Ave Store D, New York, NY 10022",
+      "open_state": "Closed · Opens 8 AM Mon",
+      "hours": "Closed · Opens 8 AM Mon",
+      "operating_hours": {
+        "sunday": "Closed",
+        "monday": "8 AM–3:30 PM",
+        "tuesday": "8 AM–4 PM",
+        "wednesday": "8 AM–4 PM",
+        "thursday": "8 AM–4 PM",
+        "friday": "8 AM–3:30 PM",
+        "saturday": "Closed"
+      },
+      "website": "http://www.cafehatou.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Catering",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF2cWszMGY0MRgAOgMI8A0%3D&g2lbs=AIBNGdW8DucHJt0syHjKIV85YpbA3kvlBvTMcKXHD0xYvc3avBT9tAfwD-IFU5khJ7KYBIF-0BSQ442myFPz8yLLC1d_7ZklQA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Hidden gem downstairs, great espresso, nice music.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerTZAJFBMLlCA2pAGDUeBmzIqpXqf_7mFP74KVla7mWPO5f1Avchg8lYJCSJ-RbGiFoapbC2OitDDaqI3Qywi5yNtUW_KTlkXvt0j6HZsnlGj81eGjLR-NyDHMCrRbXmLqhTKFvOw=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8oVRWXicBcHhEkIwAADgJ1pCpbrrx3AIpaRSfzrcMtpsbHF6wZ6ht-n7fl8sJRdrRSFYn5SMlQS9BeoK1kjUyEnBqFJyAQoBhAK9CxxQl9yh75i7kFhQ49C1z8ikn23L0_b5MKhzMGbBhWQGvR6i-VOFfYHLJbn51skHce5WDst4bmlRJW07a7f6cRyq-biX5-sjSMgr7eW0Xnh30RC3XqrIrcMY7Efb21ldnKc0bHESOH00bAZ1oQO80sALNOwPR5hFZQ"
+    },
+    {
+      "position": 6,
+      "title": "Dante NYC",
+      "place_id": "ChIJUw68EZJZwokRJ15RD_T4OTw",
+      "data_id": "0x89c2599211bc0e53:0x3c39f8f40f515e27",
+      "data_cid": "4339773443060882983",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2599211bc0e53%3A0x3c39f8f40f515e27&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2599211bc0e53%3A0x3c39f8f40f515e27&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7288417,
+        "longitude": -74.0016444
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUw68EZJZwokRJ15RD_T4OTw",
+      "provider_id": "/g/1td43dn1",
+      "rating": 4.5,
+      "reviews": 2711,
+      "price": "$$$",
+      "extracted_price": null,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Bar",
+        "Italian restaurant",
+        "Restaurant"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "bar",
+        "italian_restaurant",
+        "restaurant"
+      ],
+      "address": "79-81 MacDougal St, New York, NY 10012",
+      "open_state": "Closed · Opens 10 AM",
+      "hours": "Closed · Opens 10 AM",
+      "operating_hours": {
+        "sunday": "10 AM–1 AM",
+        "monday": "12 PM–1 AM",
+        "tuesday": "12 PM–1 AM",
+        "wednesday": "12 PM–1 AM",
+        "thursday": "12 PM–1 AM",
+        "friday": "12 PM–1 AM",
+        "saturday": "10 AM–1 AM"
+      },
+      "phone": "(212) 982-5275",
+      "website": "http://www.dante-nyc.com/",
+      "description": "Small plates & drinks in historic digs. Legendary circa-1915 cafe serving small plates & cocktails in an updated historic setting.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Historic",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/SGrn10m6BvQ?source=pa&opi=79508299&hl=en-US&gei=sknSadG_Dc2f0PEPsb7TyAQ&sourceurl=https://www.google.com/search?hl%3Den%26pb%3D!4m8!1m3!1d34005.9460098!2d-74.0083012!3d40.7455096!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sdQpw9MnajCdQQ82t4PCFQaCna8-uD9k:2!2s1i:0,t:11886,p:dQpw9MnajCdQQ82t4PCFQaCna8-uD9k:2!7e81!12e5!17sdQpw9MnajCdQQ82t4PCFQaCna8-uD9k:92!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3DCafes%2Bin%2BTokyo%26tbm%3Dmap",
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRkNDNkbjEYADoDCPAN&g2lbs=AIBNGdV9_n4BQFwobq86yr58QTl6EoAqWDvocyKLUaArKuqDSLvAm05SsEhD9P-CsstUBw4lM4s4I6KkQhlwoUbABZ62V2Tcaw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Delicious brunch with a friendly service crew and yummy cocktails.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq9ErcqNS6majNEaxKtrL39r_G04ncaa0pk_wRzBDfozlTqUMBIdRHTonA6_vXxJTXjcqAwXmlpFrdrDwgACPppwHZS6ptWgrlwoNNaii0uFU7ON5Mj-QrT84Lv78wi5m01AOI=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Gqg97nicBcFbEoIgAADAE5FmadlMH5SVvehl5fTjMGSoISBQOJ2vS3Sbdn_fwhipR47Dil6HCkFZ_tK5IoKbnJsOEbVDpQZEA-3A-AJt3oQzRRp0CmpcoRlu10ZteqHKFm6fE4xd-czs8TOJHuLDkua8nSzvxzgRHAbZO21XSVqRBtq0ZnKu7iqyFE73Utr4dgqkuVLFrEAIl6X7mp8HO-RvK3BQybC_eQ-GtvRrtwt3y7Hteh4oQg88ARd_SeJFrA"
+    },
+    {
+      "position": 7,
+      "title": "787 Coffee",
+      "place_id": "ChIJD7LwAXpZwokR_qmGocyhRJQ",
+      "data_id": "0x89c2597a01f0b20f:0x9444a1cca186a9fe",
+      "data_cid": "10683842116285016574",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2597a01f0b20f%3A0x9444a1cca186a9fe&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2597a01f0b20f%3A0x9444a1cca186a9fe&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7274023,
+        "longitude": -73.98884079999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD7LwAXpZwokR_qmGocyhRJQ",
+      "provider_id": "/g/11h4tc39wf",
+      "rating": 4.9,
+      "reviews": 2783,
+      "price": "$1–10",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "cafe"
+      ],
+      "address": "101 2nd Ave, New York, NY 10003",
+      "open_state": "Open · Closes 6 PM",
+      "hours": "Open · Closes 6 PM",
+      "operating_hours": {
+        "sunday": "7:30 AM–6 PM",
+        "monday": "7:30 AM–6 PM",
+        "tuesday": "7:30 AM–6 PM",
+        "wednesday": "7:30 AM–6 PM",
+        "thursday": "7:30 AM–6 PM",
+        "friday": "7:30 AM–6 PM",
+        "saturday": "7:30 AM–6 PM"
+      },
+      "phone": "(646) 838-9890",
+      "website": "https://www.787coffee.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Latino-owned",
+            "Identifies as LGBTQ+ owned",
+            "Small business"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Cocktails",
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoNHRjMzl3ZhgAOgMI8A0%3D&g2lbs=AIBNGdWuXnqWSloS1TpCmUx0mRHaP6qVbKM2DRvwTC26llwTRA9pcyCgedfurO7REJc-afR-QOOMlD0gROtnk7dGG7eD73rTfg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Unique, delicious coffee and Max gave us incredible service!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqtttlT8s7LF9Nf1_EbbF4pAjroPmV9zeflfaKEkbjaPpL43xb2Y_9bj55wSIRqGfwLh1QD1_zVNVRqnYZcG28MzkHpu24VH2OoZNdX2vvH2HCHtgq6HsGaDbkgaREqIkT6EFzTAA=w92-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/etXA6XicDcNRDoIgAADQE6mTzLKtD1YqLbMyx6ofJ4Y4MYGgbB6wO3Sbetv7fhpjpF44TtdMbCYE6-hT00clekN7Y1fi7jCprUpb2oEIw4EqY0yXz_UsiYK0douQkMiTsH2Iwx0HI627utyGnLTlQSbe5E3ApQhIO50Op02m4npIGve4dosRpzhT_eVaxWC-GzmST-BhBPbimt7O4PVCAK2QYcpHOi7XhLMyC9WG534YjTmEyyEAVvPPrV78AGLsRUw"
+    },
+    {
+      "position": 8,
+      "title": "Hanamizuki Cafe",
+      "place_id": "ChIJhfKwda9ZwokRoibXlAvU0Ig",
+      "data_id": "0x89c259af75b0f285:0x88d0d40b94d726a2",
+      "data_cid": "9858612730520872610",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259af75b0f285%3A0x88d0d40b94d726a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259af75b0f285%3A0x88d0d40b94d726a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7475427,
+        "longitude": -73.9916034
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhfKwda9ZwokRoibXlAvU0Ig",
+      "provider_id": "/g/1pwfcf2l8",
+      "rating": 4.5,
+      "reviews": 577,
+      "price": "$10–20",
+      "extracted_price": 10,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Japanese restaurant",
+        "Restaurant"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "japanese_restaurant",
+        "restaurant"
+      ],
+      "address": "143 W 29th St, New York, NY 10001",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "sunday": "11 AM–6 PM",
+        "monday": "Closed",
+        "tuesday": "11 AM–8 PM",
+        "wednesday": "11 AM–8 PM",
+        "thursday": "11 AM–8 PM",
+        "friday": "11 AM–8 PM",
+        "saturday": "11 AM–8 PM"
+      },
+      "phone": "(212) 695-5533",
+      "website": "http://www.hanamizukinyc.com/",
+      "description": "Japanese rice balls in a serene setting. Minimalist-chic cafe specializing in Japanese rice balls with eclectic fillings, plus miso soup.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMXB3ZmNmMmw4GAA6AwjwDQ%3D%3D&g2lbs=AIBNGdU7ty0E3vOYnbvbwZJvaFo-rUwJkRZU_cF6rWueEan1iBGABVpH2HXzhiMcWuc9LAer9H8KZHXlLLv-LEh2fXtZILUTiQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Lovely, low-key (and fairly large) cafe with more than a dozen tables.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerlVM-gF9FrM9ingAjiCpxpzXuMOHUOcnTd70igJ4u8ejTMz0GfxNQ1bI8DX8gREV-iy8BRhM_hAdSz32uBdaHpQioVHMLswHrRt1cD7TQtRnTA_uUQMBSi7o2Kd9aY6MnxQ___=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cS_1MnicBcFdboMgAADgE6GVNlWX7AHXduyHNVhr2ifSIQOcAyIQnffbIXqbfd_9T4Xg_EOaDmqdSGvlIKIXI7cmCBMSbn9S6TzgHvgU4RZNYhxaAuShPIyk1EaiXj-52S2XSI74fOSm6fKVlq-bWIi-Icvq-Wv-oNnnS7G7FLLet0D_FlWtCFOoOy1rGKvuhh3VtsXk3U94rEPGd3lDQ20axOKZkuqkcwvfuvJ23RIzU8bY45RBCFQJwTcw9h_7V0TH"
+    },
+    {
+      "position": 9,
+      "title": "Caffe Reggio",
+      "place_id": "ChIJr4J2gZFZwokRA2y5p4UfH8I",
+      "data_id": "0x89c25991817682af:0xc21f1f85a7b96c03",
+      "data_cid": "13987933626541108227",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25991817682af%3A0xc21f1f85a7b96c03&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c25991817682af%3A0xc21f1f85a7b96c03&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7303079,
+        "longitude": -74.0003706
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr4J2gZFZwokRA2y5p4UfH8I",
+      "provider_id": "/m/0c41py6",
+      "rating": 4.3,
+      "reviews": 2038,
+      "price": "$10–20",
+      "extracted_price": 10,
+      "type": "Cafe",
+      "types": [
+        "Cafe"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe"
+      ],
+      "address": "119 MacDougal St, New York, NY 10012",
+      "open_state": "Closed · Opens 9 AM",
+      "hours": "Closed · Opens 9 AM",
+      "operating_hours": {
+        "sunday": "9 AM–3 AM",
+        "monday": "9 AM–3 AM",
+        "tuesday": "9 AM–3 AM",
+        "wednesday": "9 AM–3 AM",
+        "thursday": "9 AM–3 AM",
+        "friday": "9 AM–4 AM",
+        "saturday": "9 AM–4 AM"
+      },
+      "phone": "(212) 475-9557",
+      "website": "https://www.caffereggio.com/",
+      "description": "Legendary spot for cappuccino & dessert. Italian cafe on the Greenwich Village scene since 1927.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Historic",
+            "Lively",
+            "Romantic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiQKIuICHzIdEhYiFNLX29IPDgoKL20vMGM0MXB5NhgAOgMI8A0%3D&g2lbs=AIBNGdXPxUg7oTBZXStcuGuFzuGrmYB8dM9OSbMXWaSP3ufSRT8W3KggeZkijrcUVWXXG_zE5BkyGE2HohUdRLF9wxXCtSisTg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The coffee here is excellent and the atmosphere is second to none.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepCrDJt2gIMRKVIXpb8bCf2AES1xqkWjJJtvdJQbbEIkF2J8bZZO8LhWJhUoHhftOmBqP-JiGtexozToBhkgWWS60epEDLFO8ke1zbsR6qdWKu0zqVohiwYowvN5Hk_jGhgwHodcw=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3amUAHicBcHdksEwGADQJ4pqzJqumb0oShts_W2Dm51JG_kI_VIJMX1Bz-BtnPN-gXPGDoLgAr2OQlQXebfyVmLtZO06JV4DZSwpLbFBnBaxl2Z0GzNHVbZYz4psZ0QkRkcaJ5vw2Wh-Zsw9KrYSIsn0hLJIHA55NAfO4A9TOLr8OmyWhJ2mTj6x3eIQtOJ80-9Kk4znkzzSMmyFXfebis_u3bYpEE5-j_7x-5Xq__MUlE-xKv2PDykl8E2JJjV-AKdSRwI"
+    },
+    {
+      "position": 10,
+      "title": "ACRE",
+      "place_id": "ChIJi7zDhGVZwokRwoHkVROLwlk",
+      "data_id": "0x89c2596584c3bc8b:0x59c28b1355e481c2",
+      "data_cid": "6467884930019131842",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2596584c3bc8b%3A0x59c28b1355e481c2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2596584c3bc8b%3A0x59c28b1355e481c2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.726281199999995,
+        "longitude": -73.9546988
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi7zDhGVZwokRwoHkVROLwlk",
+      "provider_id": "/g/11j38jvqjf",
+      "rating": 4.7,
+      "reviews": 563,
+      "price": "$20–30",
+      "extracted_price": 20,
+      "type": "Japanese restaurant",
+      "types": [
+        "Japanese restaurant"
+      ],
+      "type_id": "japanese_restaurant",
+      "type_ids": [
+        "japanese_restaurant"
+      ],
+      "address": "64 Meserole Ave, Brooklyn, NY 11222",
+      "open_state": "Opens soon · 8 AM",
+      "hours": "Opens soon · 8 AM",
+      "operating_hours": {
+        "sunday": "8 AM–5 PM",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM",
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "8 AM–5 PM"
+      },
+      "phone": "(718) 954-9074",
+      "website": "http://acrenyc.com/",
+      "description": "Japanese-inspired eatery with a terrace. Health-conscious, Japanese-influenced fare served in an industrial-chic destination with a terrace.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great tea selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFqMzhqdnFqZhgAOgMI8A0%3D&g2lbs=AIBNGdULvyzypPy7st5hjLijhF0wCIrkzWDDl5GzHOmMK6raoVKfUA5VJ34F_yb9Iw4oFMlzTiZftgloC7yU2c4FWwM3cyiOmw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Coffee is amazing and their food is perfect!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweryhhVPptlNoAbhBeeCwbL5tMSeB7w_MXV1RO3iV4-Wv39bA5Ng_BRTc0_SUbNZiUtEg_IePa7h4R1qLpSHzi-3o5zppz-0zV4MLmhaTTMNogeZK3Hm8pewidSYszm9FhuUBA8=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/23cuaXicBcHdboIwGADQJ6oIhSgmXhSjwQho-KmbN0TwSz8yoJ2ta9bn8yX2Njvn743GKL3xvBHpQkgpRnhpePZyNjCbRS8nTyhNek20x1LOLDx_EflFmbGQrMMEYGe7LDJ5BcnKtvkH98szHXhIrj807lhUiDYp637ZVk1X3IbG7EV7hMt9hWHpf2eqSt1AqIycUo4sHQ_zbMJ7XeeFFHA70XRaK7DDo_rUbooP-GoStt5aPwgIxgH5IrP8B7_HRKI"
+    },
+    {
+      "position": 11,
+      "title": "Coppola Cafe",
+      "place_id": "ChIJURYbNaZZwokRmn6eJrWBk8U",
+      "data_id": "0x89c259a6351b1651:0xc59381b5269e7e9a",
+      "data_cid": "14236865462085254810",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259a6351b1651%3A0xc59381b5269e7e9a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259a6351b1651%3A0xc59381b5269e7e9a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7323234,
+        "longitude": -74.0015222
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJURYbNaZZwokRmn6eJrWBk8U",
+      "provider_id": "/g/11h2qnghsl",
+      "rating": 4.6,
+      "reviews": 423,
+      "price": "$1–10",
+      "extracted_price": 1,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Breakfast restaurant",
+        "Cafeteria",
+        "Cake shop",
+        "Chocolate cafe",
+        "Coffee shop",
+        "Lunch restaurant",
+        "Pizza restaurant",
+        "Sandwich shop"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "breakfast_restaurant",
+        "cafeteria",
+        "cake_shop",
+        "chocolate_cafe",
+        "coffee_shop",
+        "lunch_restaurant",
+        "pizza_restaurant",
+        "sandwich_shop"
+      ],
+      "address": "171 W 4th St, New York, NY 10014",
+      "open_state": "Open · Closes 7 PM",
+      "hours": "Open · Closes 7 PM",
+      "operating_hours": {
+        "sunday": "7 AM–7 PM",
+        "monday": "7 AM–7 PM",
+        "tuesday": "7 AM–7 PM",
+        "wednesday": "7 AM–7 PM",
+        "thursday": "7 AM–7 PM",
+        "friday": "7 AM–7 PM",
+        "saturday": "7 AM–7 PM"
+      },
+      "phone": "(929) 430-9955",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Quick bite",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "user_review": "\"The staff was so friendly and the cold brew was delicious.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo4zwjKHmOiJk8gBmf4BGQCAfzk0uRn3wxSSjD9rwb5s0S_GIRj-f8i8JwHTGFc-68qE2ZDXUDJxosrR_DdQEfx6nL8FcVL_gy41_XVlb77AoMG2pFG6lVVKYEHmtLJmYMYkfVk=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4v6qfnicBcFRboIwAADQE1W0ItYl-0CBImIWYTbiD4mVFiltGa0p8347hLfZe--_1trBfHhe3y5nXGveN0_TjFQr2yg7o1p6fDCAGmC8MCWha7T_ct0hlV-PTCC-lczf4tMuZC8xfxZq6aay7KLN6G4rMy9rvC86wNADZS79xgkFAfqJ4TW6nKNs0mYs6uh-itkUqBwllOQ1__UX9YX0t_U61EcMhwQHPSGHKk6lzTNZHSvBiPh0CwhBu4FAAKX_AcjURBs"
+    },
+    {
+      "position": 12,
+      "title": "Knock Out Cafe NY",
+      "place_id": "ChIJIYwtd5tZwokRMrZ9xwLzM0g",
+      "data_id": "0x89c2599b772d8c21:0x4833f302c77db632",
+      "data_cid": "5202769187805443634",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2599b772d8c21%3A0x4833f302c77db632&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2599b772d8c21%3A0x4833f302c77db632&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7290498,
+        "longitude": -73.9795129
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIYwtd5tZwokRMrZ9xwLzM0g",
+      "provider_id": "/g/11y956r044",
+      "rating": 4.8,
+      "reviews": 75,
+      "price": "$1–10",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Espresso bar"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "espresso_bar"
+      ],
+      "address": "530 E 13th St Store B, New York, NY 10009",
+      "open_state": "Closed · Opens 9 AM",
+      "hours": "Closed · Opens 9 AM",
+      "operating_hours": {
+        "sunday": "9 AM–5 PM",
+        "monday": "8 AM–4 PM",
+        "tuesday": "8 AM–4 PM",
+        "wednesday": "8 AM–4 PM",
+        "thursday": "8 AM–4 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "9 AM–5 PM"
+      },
+      "website": "https://www.knockoutny.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5OTU2cjA0NBgAOgMI8A0%3D&g2lbs=AIBNGdU6fq1hACLkIUvbexf3H2dgg7MNHrxEIxAcdDRfxVfqILgoToKmFNyGWX-E80WqQzE41a8ynrHfvuUCTlfEhJcrrtxhBg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Beautiful artwork, tasty coffee and great customer service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwercNo6dFtvtSHS0fzxXAAfwX9IUPFELCQjrLzBDQqkSvxjxZcCFosq8Vu6L3sFh8S6xfSX2kK9_jSUoWGhUUhMMSFikAoz3zakIGE4MIxBCtKcq4Ihj8sLKhbGr7MhurDWmTyBK=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vMPkTHicDcnRboIwFADQL6owMQxNfChokQBGU1Gyl0U74I4qV2iRyv_5Ef7Ndl7P-wVa39XCsq7gTCrE6lr0qugENrpo9ETgzaruighFlEU3Rzr83xbdH6Yfmm-4XY4mp7Qc8nmU7dg6CfZ1l4z-at9K_jC1-RIBQ9V6x95NHMXA464peT6V8fy75hmeQsgySFPOfiXF0RnPMgrXszQyfqBj0c4iqD2VxHAJu88U-m51uh2efrwcPJvAh-0SSRr8A1R6Rco"
+    },
+    {
+      "position": 13,
+      "title": "Union Square Cafe",
+      "place_id": "ChIJxTHke6JZwokRCLWVd99eDBw",
+      "data_id": "0x89c259a27be431c5:0x1c0c5edf7795b508",
+      "data_cid": "2021094646659527944",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259a27be431c5%3A0x1c0c5edf7795b508&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259a27be431c5%3A0x1c0c5edf7795b508&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7377702,
+        "longitude": -73.9878767
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxTHke6JZwokRCLWVd99eDBw",
+      "provider_id": "/m/03hmjkv",
+      "rating": 4.6,
+      "reviews": 2361,
+      "price": "$50–100",
+      "extracted_price": 50,
+      "type": "New American restaurant",
+      "types": [
+        "New American restaurant"
+      ],
+      "type_id": "new_us_american_restaurant",
+      "type_ids": [
+        "new_us_american_restaurant"
+      ],
+      "address": "101 E 19th St, New York, NY 10003",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "sunday": "11 AM–10:30 PM",
+        "monday": "11:30 AM–10:30 PM",
+        "tuesday": "11:30 AM–10:30 PM",
+        "wednesday": "11:30 AM–10:30 PM",
+        "thursday": "11:30 AM–10:30 PM",
+        "friday": "11:30 AM–10:30 PM",
+        "saturday": "11 AM–10:30 PM"
+      },
+      "phone": "(212) 243-4020",
+      "website": "https://www.unionsquarecafe.com/?utm_source=google&utm_medium=gmb",
+      "description": "Market-driven New American fine dining. Danny Meyer's first restaurant serves seasonal New American fare in a casually refined setting.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Coffee",
+            "Healthy options",
+            "Organic dishes",
+            "Private dining room",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Locals",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/1JIpoYa1MDU?source=pa&opi=79508299&hl=en-US&gei=sknSadG_Dc2f0PEPsb7TyAQ&sourceurl=https://www.google.com/search?hl%3Den%26pb%3D!4m8!1m3!1d34005.9460098!2d-74.0083012!3d40.7455096!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sdQpw9MnajCdQQ82t4PCFQaCna8-uD9k:2!2s1i:0,t:11886,p:dQpw9MnajCdQQ82t4PCFQaCna8-uD9k:2!7e81!12e5!17sdQpw9MnajCdQQ82t4PCFQaCna8-uD9k:92!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26q%3DCafes%2Bin%2BTokyo%26tbm%3Dmap",
+      "user_review": "\"Amazing brunch place, great decor, really comfortable and spacious.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqNy8jq00d3Y1_lUrwYQvrJdIyhfc18AUOct-9_ji3x7afxiCSlBjGSAlITT1sYHdp_4npVDerEVkD2-SpnVVydFQYCzMQPvVU1UJgPFnmOpYWT3vzkckVi_J40_PSx-tL4rWY=w138-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rydDx3icBcFZjsIgAADQE2GLNLGa-FF3G5c2bTF8kQnFbggITBfPN5fwNvPe9692TtuV54kazSqlKsF_LTdMScelmzH18iptAbPAetEJRwN_36awfft-iQikojADSXsTl-epfjIYRsWdObCkbYPGxc9zbLaZ2LTHLBLnPIeWnEpNA6nxjps97nZzkGmJ8VQeUrL9XNOkxwUs4io5yNddk0eO-k_HOtzQOPBpko3AXQLzIOsBohDUyznogFT_4dNFGg"
+    },
+    {
+      "position": 14,
+      "title": "Little Canal",
+      "place_id": "ChIJEebNoSlawokRcf3d3BZhPzM",
+      "data_id": "0x89c25a29a1cde611:0x333f6116dcddfd71",
+      "data_cid": "3692776970289806705",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25a29a1cde611%3A0x333f6116dcddfd71&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c25a29a1cde611%3A0x333f6116dcddfd71&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.714310499999996,
+        "longitude": -73.99042419999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEebNoSlawokRcf3d3BZhPzM",
+      "provider_id": "/g/11cmtwkjqb",
+      "rating": 4.3,
+      "reviews": 519,
+      "price": "$10–20",
+      "extracted_price": 10,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Bar",
+        "Coffee shop"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "bar",
+        "coffee_shop"
+      ],
+      "address": "26 Canal St, New York, NY 10002",
+      "open_state": "Opens soon · 8 AM",
+      "hours": "Opens soon · 8 AM",
+      "operating_hours": {
+        "sunday": "8 AM–4 PM",
+        "monday": "7:30 AM–4 PM",
+        "tuesday": "7:30 AM–4 PM",
+        "wednesday": "7:30 AM–4 PM, 6 PM–12 AM",
+        "thursday": "7:30 AM–4 PM, 6 PM–2 AM",
+        "friday": "7:30 AM–4 PM, 6 PM–2 AM",
+        "saturday": "8 AM–4 PM, 6 PM–2 AM"
+      },
+      "phone": "(917) 472-7479",
+      "website": "http://www.littlecanal.com/",
+      "description": "Vegetarian café for coffee & pastries. Comfy counter-serve outpost offering coffee drinks, pastries, light fare & sandwiches.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjbXR3a2pxYhgAOgMI8A0%3D&g2lbs=AIBNGdWaJY03xKQ6aY336QZMCLHoL5iOuVXVGuxTtl2GYbYh1ntntwr4U_ay304atfYPf6oOc2ccrUv_6nzVCRg1F9bs9buCpA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Perfect egg plate, cold brew and chai, good music, chill vibe.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerHnmUxQoL0ncul4uq8k4G8ux0snjAkMBifsKZSn6FwIVVZqSZgurAqiJ23wDPEuctUJDC7BMrMIooLXjLmnV2iNcrW_q3PSgUGMsKta0W6uiv7CvZ61OuuTFGTb5jkLxCHeolK=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/y9uH5XicBcFbcoIwFADQFUUwKFpn_ECsoICP4WGHH6fNpOGZK0musMEuwt30nPdfZcxTbyyrq5yZABAdR80VA2m4NDMGvSWemjBNtOWFhTdyFco-n24Q25Jht8Bh3S6CNU62lo3XJrv6V0dlKt3DeCyKckhLgcob6hN1xv31E5nJT3t_tUtUcgSIv5q4lwWtz0zdH4NzTUUeJDoy3_bdxfq18l-lO78gZocg-1k2bTz5IYcu2o5zSkn1QUlLJPwDdo5GBQ"
+    },
+    {
+      "position": 15,
+      "title": "Lady Wong Patisserie East Village",
+      "place_id": "ChIJB7MDsmJZwokRke4QTDDokko",
+      "data_id": "0x89c25962b203b307:0x4a92e8304c10ee91",
+      "data_cid": "5373612599538675345",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25962b203b307%3A0x4a92e8304c10ee91&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c25962b203b307%3A0x4a92e8304c10ee91&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.7285086,
+        "longitude": -73.9861516
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB7MDsmJZwokRke4QTDDokko",
+      "provider_id": "/g/11rqgfhk1v",
+      "rating": 4.6,
+      "reviews": 497,
+      "price": "$$",
+      "extracted_price": null,
+      "type": "Pastry shop",
+      "types": [
+        "Pastry shop",
+        "Bakery",
+        "Cake shop",
+        "Coffee shop",
+        "Dessert shop",
+        "Southeast Asian restaurant"
+      ],
+      "type_id": "pastry_shop",
+      "type_ids": [
+        "pastry_shop",
+        "bakery",
+        "cake_shop",
+        "coffee_shop",
+        "dessert_shop",
+        "south_east_asian_restaurant"
+      ],
+      "address": "332 E 9th St, New York, NY 10003",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "sunday": "11 AM–8 PM",
+        "monday": "11 AM–8 PM",
+        "tuesday": "11 AM–7 PM",
+        "wednesday": "11 AM–7 PM",
+        "thursday": "11 AM–8 PM",
+        "friday": "11 AM–9 PM",
+        "saturday": "11 AM–9 PM"
+      },
+      "phone": "(646) 422-7189",
+      "website": "https://ladywong.com/",
+      "description": "Artisanal sweet treats in an acclaimed patisserie. Acclaimed French-Asian patisserie serving elegant cakes, pastries & coffee.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great dessert"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dessert"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFycWdmaGsxdhgAOgMI8A0%3D&g2lbs=AIBNGdUk-MZo0ZU2Atu4lh-5C3rKJY-9m09TWcaj9NjJ6HIpg-vg0EFKJPj8q44JpuyQg17ekyA7pl0unVqRxm2zp5unnQ4Wcg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The coffee and tea selections complemented the baked goods perfectly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepYuVtq5wf1uT2VCjhZ_Td3st42icJIoMOjHbNX5Eh2M_LClObiblvkXaXRomuPvPSjNm_9WRPOeA3BVpB29ZtTSViTkhxBLJ9znGLcqLef0ZUNhJ7d23eCYbXa3VGDdXie_Gn-=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qmaTLHicBcFtDoIgAADQE5EJtWZbP9Sa5UxdGZF_XCKKX2CB2bpfh-g2vff7cq0HtTaMjqNZJWXVsVGxJ5VCM6FnVPZGNShAFVCGvcf2xIbbiPVjOZXmmEDsNjzNkgIpvYA19Q_yGDX7PCTLHYfHLHC7KK_z7tWSOznJfoxf8bkJ-8y6nuKI2cjBgwOtVCdnXCctfzuBb32EF9BHwMp5egm5vyogYu4tJ3eEvW1BapZ5AmwmE0LALQhaIOQfNAZFBA"
+    },
+    {
+      "position": 16,
+      "title": "Kinokuniya New York",
+      "place_id": "ChIJn0BhwP5YwokRTZw5De7Ti20",
+      "data_id": "0x89c258fec061409f:0x6d8bd3ee0d399c4d",
+      "data_cid": "7893635791274482765",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c258fec061409f%3A0x6d8bd3ee0d399c4d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c258fec061409f%3A0x6d8bd3ee0d399c4d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.754107,
+        "longitude": -73.9849938
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn0BhwP5YwokRTZw5De7Ti20",
+      "provider_id": "/g/1tf03d67",
+      "rating": 4.7,
+      "reviews": 9259,
+      "type": "Book store",
+      "types": [
+        "Book store"
+      ],
+      "type_id": "book_store",
+      "type_ids": [
+        "book_store"
+      ],
+      "address": "1073 6th Ave 2nd Floor, New York, NY 10018",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "sunday": "11 AM–7:30 PM",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM",
+        "wednesday": "10 AM–8 PM",
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "10 AM–8 PM"
+      },
+      "phone": "(212) 869-1700",
+      "website": "https://usa.kinokuniya.com/",
+      "description": "Retailer with a wide variety of Japanese & global books. Japan-based global retailer offering a wide assortment of titles in Japanese & local languages.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true
+      },
+      "user_review": "\"The Cafe on the second floor is super cute.and the food is really delicious!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqfqb1-NiPoTJw4jdNNml__MX7KW0sym0lTOk-g67xwqh82AWgkznxnscO2R_v7ZkGPB2T382qNhZJ1Q8Ew2hSnZnQVHOFqUwKHRU1Sed4qPqC1QNKLqjUtthraGQFY6VOHdtq_=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/b6ebbnicBcFRToMwGADgExVotwCa-IBGILAV2IBtvBCF2jqg3b9WO3c_D-Ft_L6_X2HMRT-67ixWDleKz-xLs-ugpGHSOINaXH7RaNBIu1HaRpbBB7xjRD9LVWd2fR4pXea-3x6D_ODpn8Wb62JC3A9uFkRIogOf7vIm9VCQXf8ddFNSPpN6FRKgostwFb5aIvayk1WbFjE0Nk93Dd6zcQ0lvOCK5hs4N8aI61tSxSe_LdLRQP9kMSFIPBA0Ian-Af8cROA"
+    },
+    {
+      "position": 17,
+      "title": "Breads Bakery",
+      "place_id": "ChIJcWebfphZwokRRrPNZD7byJw",
+      "data_id": "0x89c259987e9b6771:0x9cc8db3e64cdb346",
+      "data_cid": "11297520726284546886",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259987e9b6771%3A0x9cc8db3e64cdb346&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259987e9b6771%3A0x9cc8db3e64cdb346&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.736856499999995,
+        "longitude": -73.9916831
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcWebfphZwokRRrPNZD7byJw",
+      "provider_id": "/g/1hhw9tbzx",
+      "rating": 4.6,
+      "reviews": 2467,
+      "price": "$10–20",
+      "extracted_price": 10,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Bakery",
+        "Caterer",
+        "Coffee shop",
+        "Dessert shop"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "bakery",
+        "catering_service",
+        "coffee_shop",
+        "dessert_shop"
+      ],
+      "address": "18 E 16th St, New York, NY 10003",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "sunday": "7 AM–8 PM",
+        "monday": "7 AM–8 PM",
+        "tuesday": "7 AM–8 PM",
+        "wednesday": "7 AM–8 PM",
+        "thursday": "7 AM–8 PM",
+        "friday": "7 AM–8 PM",
+        "saturday": "7 AM–8 PM"
+      },
+      "phone": "(212) 633-2253",
+      "website": "https://restaurants.breadsbakery.com/en/bakery/new-york-16th-street/",
+      "description": "Bright pick for handmade breads & sweets. Bright, high-ceilinged bakery featuring handmade breads & baked goods, plus coffee & sandwiches.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMWhodzl0Ynp4GAA6AwjwDQ%3D%3D&g2lbs=AIBNGdUnSUP9JrPVWjZSM8khCyqXpbwU5c7M6AdxfZd0nb-DQZS4beGVGHhlllDoGKGlt7X_rY9rs6dyqTaMk5EPXzB4wKOLwQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Lots of pastry options, coffee, and also seating both indoors and outdoors\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqS7jVrwaund2fzv0kXx-EMdRz7i5BGrnScs8oBuY2UfBsSjEG2GEFZ81MOrDgZxookOusjE-HEWrNfJe33Q-aU_nZDnUva69v6J0763bYuBhp6Gy0aYaPUFIX0ADZV1nUN8Nq1=w140-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5mUGPHicBcH_EkIwAADgJ1qGQt31B2ep7tIPN8U_3WKI2rQZ5f16iN6m7_t9q65r5ULTHpU5KTkvH1RJKjLOOsq6ScafWtlKkEkgNXcduwN9RXYdi4EolhvF2MPm8gZol59G-z7zAsGiTDrcU4mBC09GNQqMAK1SR9_thV-mb86bvZI1Amt0FmGxpaZ5BARfWeoz3BNr3ltbaFvmLVFe1VrBB5KEHPBqc4Gun8Y6w6ETvvTloE8hqOYGaADjf_6nQ80"
+    },
+    {
+      "position": 18,
+      "title": "Voyager Espresso",
+      "place_id": "ChIJuZyP_hdawokRpnBP2rMI9Pk",
+      "data_id": "0x89c25a17fe8f9cb9:0xf9f408b3da4f70a6",
+      "data_cid": "18011030378316263590",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25a17fe8f9cb9%3A0xf9f408b3da4f70a6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c25a17fe8f9cb9%3A0xf9f408b3da4f70a6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.708841799999995,
+        "longitude": -74.0070094
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuZyP_hdawokRpnBP2rMI9Pk",
+      "provider_id": "/g/11cky7r8ng",
+      "rating": 4.9,
+      "reviews": 506,
+      "price": "$1–10",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "110 William St Lower Level, New York, NY 10038",
+      "open_state": "Closed · Opens 7:30 AM Mon",
+      "hours": "Closed · Opens 7:30 AM Mon",
+      "operating_hours": {
+        "sunday": "Closed",
+        "monday": "7:30 AM–4 PM",
+        "tuesday": "7:30 AM–4 PM",
+        "wednesday": "7:30 AM–4 PM",
+        "thursday": "7:30 AM–4 PM",
+        "friday": "7:30 AM–4 PM",
+        "saturday": "Closed"
+      },
+      "phone": "(212) 227-2744",
+      "website": "http://voyagerespresso.com/",
+      "description": "Artisanal coffee in striking surrounds. Sleek, futuristic coffee shop with a modest menu of gourmet toast, smoothies & chia pudding.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Black-owned",
+            "Identifies as Latino-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining",
+            "Good for working on laptop"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Healthy options",
+            "Prepared foods",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Usually difficult to find a space"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFja3k3cjhuZxgAOgMI8A0%3D&g2lbs=AIBNGdXamn_0qxdgF7gjM1kpQBNtJfaVsrm0_Oq6BohcQMv8bpn5Dv8WA22ZEYOHUqzeZpTNsCQx4mcndbUVBwURiPEh8E-x9g%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Delicious coffee and food, cool venue, nice people, neighborly vibe\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo6-XGB3nPE8d-WRAkthh-w8waDw6Q4C_eLjKAd5oowzrPEyB5R7mqO54P_gl5WjvddXfy6SVLQQLEt8mosP0xeZR2dMkMveaovPXnNWG4DQHZP9s1xWg3nOIAYjrxll8XD4rKw9Q=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/U_O15nicBcHdboIwGADQJ6qg_Kwu2UUVoouoLUuEeWMMrW2g9FNaKe4F9wx7m53z96ucu9v3INAqmkkAqcXTiqEB44Rxswb6QN4taiyyAdmeiBeQonqzigzNMUdVSTqnFPLYXzOfsnh9EUW7IzwB8D8DzV-rpHzrH8ckphepk6odOa9vr_TrVDBW5A73YGk4iXO54PtuP4orjLQ2h2oTZ2x7pks7nyoZmeMn-W6HSWtcZ_Gw80v24XGI1DxMUYcM_ANNFUVS"
+    },
+    {
+      "position": 19,
+      "title": "Fujiissa",
+      "place_id": "ChIJw3KENg1ZwokRaI1vxJdQUCo",
+      "data_id": "0x89c2590d368472c3:0x2a505097c46f8d68",
+      "data_cid": "3049025560495754600",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2590d368472c3%3A0x2a505097c46f8d68&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c2590d368472c3%3A0x2a505097c46f8d68&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.747606499999996,
+        "longitude": -73.9854071
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw3KENg1ZwokRaI1vxJdQUCo",
+      "provider_id": "/g/11ygr0w_nz",
+      "rating": 4.8,
+      "reviews": 57,
+      "price": "$1–10",
+      "extracted_price": 1,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "330 5th Ave, New York, NY 10001",
+      "open_state": "Opens soon · 8 AM",
+      "hours": "Opens soon · 8 AM",
+      "operating_hours": {
+        "sunday": "8 AM–12 AM",
+        "monday": "8 AM–12 AM",
+        "tuesday": "8 AM–12 AM",
+        "wednesday": "8 AM–12 AM",
+        "thursday": "8 AM–12 AM",
+        "friday": "8 AM–12 AM",
+        "saturday": "8 AM–12 AM"
+      },
+      "website": "https://fujiissa.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great dessert"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"The service and food is incredible 10/10 would recommend\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer1ur9CYgLHG8TayEGwhOgCmdeIgv1tVZztX2BGbWUuf7mqKMN69CFg7zjKqh4PY5jkBmXfTct9IFjMaIt7wzbO5WjvvQBj3GMgUzxnnvPqCzKXam2wZdMmIuxtYEFxRY9cVg6CQdibB5Jk=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KLoSF3icBcFLcoIwAADQE0WGWKTpTBeSEURK1Y4iuIMQE4NJBMKnuaMH6G363t-LG_PsPxznwZcLpjV70KGnHdHKUGUWREuHPXtAetA76222nmjnDh3CBfvaRu-n8ncTTXzPsKxpzEbXZFdrchhE1eU83HzZJun3CuGQ-VYkLX87FJ5oApnfTsSgOBRpGRt_stXeu4hxPAZiGaXsbGelxkOLbZKXEk7XOpXxMJtiE84_BSIZW-Fjfa8Cb9d8Ti6EgCMIGqD0P5crSPY"
+    },
+    {
+      "position": 20,
+      "title": "Blue Bottle Coffee",
+      "place_id": "ChIJi_eyi6pZwokRFvY-ucXUXEk",
+      "data_id": "0x89c259aa8bb2f78b:0x495cd4c5b93ef616",
+      "data_cid": "5286334008307676694",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259aa8bb2f78b%3A0x495cd4c5b93ef616&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89c259aa8bb2f78b%3A0x495cd4c5b93ef616&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 40.75297,
+        "longitude": -73.98420999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi_eyi6pZwokRFvY-ucXUXEk",
+      "provider_id": "/g/11b6gfcxj2",
+      "rating": 4.4,
+      "reviews": 1188,
+      "price": "$10–20",
+      "extracted_price": 10,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop"
+      ],
+      "address": "54 W 40th St, New York, NY 10018",
+      "open_state": "Open · Closes 7 PM",
+      "hours": "Open · Closes 7 PM",
+      "operating_hours": {
+        "sunday": "7 AM–7 PM",
+        "monday": "6:30 AM–7 PM",
+        "tuesday": "6:30 AM–7 PM",
+        "wednesday": "6:30 AM–7 PM",
+        "thursday": "6:30 AM–7 PM",
+        "friday": "6:30 AM–7 PM",
+        "saturday": "7 AM–7 PM"
+      },
+      "phone": "(510) 661-3510",
+      "website": "https://bluebottlecoffee.com/us/eng/new-york-cafes?utm_source=google&utm_medium=organic&utm_campaign=cafe_business_listing_NY",
+      "description": "Hip cafe for gourmet coffee & pastries. Trendy cafe chain offering upscale coffee drinks & pastries, plus beans & brewing equipment.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great coffee",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Prepared foods",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiNmdmY3hqMhgAOgMI8A0%3D&g2lbs=AIBNGdWb7WiHShKKMm2LVcUROwSc6nIsow4MGMdVH4yWKNkOZzpQF4ObvTfPwh-3HXEakAIU87x33lIs-rjxL73TQ_Fi6-53Ug%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=sknSadG_Dc2f0PEPsb7TyAQ&ei=sknSadG_Dc2f0PEPsb7TyAQ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Good coffee, great service and decent prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwermTIlEuCeJ8qbQVXrPJ__G1tyttLm4JkXNiGJzG54fQi6nmLkfeFXGQQNSsfcn1FsmjPBn5HOwfXff08qDJfj_Frz5FSRZc8j59havsWR0PjCAP9vxWkTq9UpFR9Y-aQXvCHh7=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nZeS23icBcHhcoIgAADgJyLT5Sa72w9zoXFdibWi_fGKA0kFVEhX77eH2Nvs-_5-pXOdffe8Vr7MKmOqlt8tH5jRjms3Y0Z5VWcBs8B6cXaMJz6ow7pd3ROOo_5KjnTIcVmmvns4t1EL3NDtLcXPNFwIcnvVatMIjmhKyHZvBdM-sqrOlzrMdpOgQsyj_hOLukTDM0T74ptFdQjlZbSnYp7XSZzD8efUHHr41aECnsGF0DHJ5NvH5AcBkDAADdDmHzjDRSQ"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Cafes+in+Tokyo&start=20&type=search"
+  }
+}
