@@ -30,6 +30,10 @@ mapgrab/
 ├── procfile                 # Gunicorn process config (for deployment)
 ├── sample.json              # Sample data used for demo mode
 ├── files/                   # Generated CSV and Excel output files
+├── static/                  # Static assets (CSS, JS, favicon)
+│   ├── style.css
+│   ├── script.js
+│   ├── mapgrab_svg.svg          
 ├── templates/
 │   └── index.html           # Frontend UI
 └── services/
